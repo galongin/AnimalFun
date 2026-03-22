@@ -32,3 +32,14 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Babysitter orchestration
+.a5c/
+
+# Asset generation work files
+assets-guide/animalfun_work/
+assets-guide/__pycache__/
+assets-guide/.env
+
+# Claude Code
+.claude/

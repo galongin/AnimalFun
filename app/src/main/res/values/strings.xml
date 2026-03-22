@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimalFun</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_quiz">Quiz</string>
+    <string name="nav_sounds">Sounds</string>
+    <string name="nav_memory">Memory</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_title">Welcome to AnimalFun!</string>
+    <string name="explore_animals">Explore Animals</string>
+    <string name="take_quiz">Take a Quiz</string>
+    <string name="animal_sounds">Animal Sounds</string>
+    <string name="memory_game">Memory Game</string>
+    <string name="your_progress">Your Progress</string>
+    <string name="stars_earned">Stars Earned</string>
+
+    <!-- Explore Screen -->
+    <string name="category_farm">Farm</string>
+    <string name="category_jungle">Jungle</string>
+    <string name="category_ocean">Ocean</string>
+    <string name="category_birds">Birds</string>
+    <string name="category_pets">Pets</string>
+    <string name="category_insects">Insects</string>
+    <string name="all_categories">All</string>
+
+    <!-- Animal Detail -->
+    <string name="tap_to_hear">Tap to hear!</string>
+    <string name="fun_facts">Fun Facts</string>
+    <string name="habitat">Habitat</string>
+    <string name="diet">Diet</string>
+    <string name="size">Size</string>
+
+    <!-- Quiz -->
+    <string name="quiz_title">Animal Quiz</string>
+    <string name="correct">Correct!</string>
+    <string name="try_again">Try again!</string>
+    <string name="next_question">Next</string>
+    <string name="quiz_complete">Quiz Complete!</string>
+    <string name="your_score">Your Score: %1$d / %2$d</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="quiz_choose_type">Choose a quiz type</string>
+    <string name="quiz_difficulty_label">Difficulty</string>
+    <string name="quiz_progress">Question %1$d of %2$d</string>
+    <string name="quiz_score">Score: %1$d</string>
+    <string name="quiz_play_sound">Play sound</string>
+    <string name="quiz_question_picture">Who is this animal?</string>
+    <string name="quiz_question_picture_desc">Mystery animal</string>
+    <string name="quiz_question_sound">Which animal makes this sound?</string>
+    <string name="quiz_question_diet">What does %1$s eat?</string>
+    <string name="quiz_question_habitat">Where does %1$s live?</string>
+    <string name="quiz_question_reverse">Which animal is %1$s?</string>
+    <string name="quiz_perfect">Perfect score! Amazing!</string>
+    <string name="quiz_great">Great job! Well done!</string>
+    <string name="quiz_good">Good effort! Keep learning!</string>
+    <string name="quiz_try_harder">Keep trying! You can do it!</string>
+    <string name="quiz_choose_another">Choose Another Quiz</string>
+    <string name="quiz_type_picture">Picture Quiz</string>
+    <string name="quiz_type_sound">Sound Quiz</string>
+    <string name="quiz_type_riddle">Riddle Quiz</string>
+    <string name="quiz_type_diet">Diet Quiz</string>
+    <string name="quiz_type_habitat">Habitat Quiz</string>
+    <string name="quiz_type_reverse">Reverse Quiz</string>
+
+    <!-- Sounds -->
+    <string name="tap_animal_sound">Tap an animal to hear its sound!</string>
+    <string name="match_the_sound">Match the Sound</string>
+    <string name="streak">Streak: %1$d</string>
+    <string name="sounds_mode_explore">Explore</string>
+    <string name="sounds_best_streak">Best: %1$d</string>
+    <string name="sounds_play_again_btn">Play Sound</string>
+
+    <!-- Memory Game -->
+    <string name="moves">Moves: %1$d</string>
+    <string name="time_elapsed">Time: %1$s</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="play_again">Play Again</string>
+    <string name="memory_choose_difficulty">Choose Difficulty</string>
+    <string name="memory_match_type">Match Type</string>
+    <string name="memory_image_image">Image - Image</string>
+    <string name="memory_image_name">Image - Name</string>
+    <string name="memory_pairs_count">%1$d pairs</string>
+    <string name="memory_start">Start Game</string>
+    <string name="memory_completion_time">Time: %1$s</string>
+    <string name="memory_completion_moves">Moves: %1$d</string>
+    <string name="memory_best_time">Best Time: %1$s</string>
+    <string name="memory_home">Home</string>
+    <string name="memory_card_desc">Memory card</string>
+
+    <!-- Settings -->
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="hebrew">Hebrew</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="reset_progress">Reset Progress</string>
+    <string name="parental_gate">Parental Gate</string>
+    <string name="solve_to_continue">Solve to continue: %1$s</string>
+    <string name="enter_answer">Enter answer</string>
+    <string name="submit">Submit</string>
+    <string name="wrong_answer">Wrong answer, try again</string>
+    <string name="settings_parents_only">Parents Only!</string>
+    <string name="settings_solve_to_unlock">Solve the math problem to unlock settings</string>
+    <string name="settings_unlock">Unlock</string>
+    <string name="settings_wrong_try_again">Try again!</string>
+    <string name="settings_reset_description">Erase all stars, explored animals, and quiz progress</string>
+    <string name="settings_reset_all">Reset All Progress</string>
+    <string name="settings_reset_confirm_title">Are you sure?</string>
+    <string name="settings_reset_confirm_message">This will erase all stars and progress! This action cannot be undone.</string>
+    <string name="settings_reset_confirm">Reset</string>
+    <string name="settings_about">About</string>
+    <string name="settings_app_version">Version %1$s</string>
+    <string name="settings_credits">AnimalFun - A fun way for kids to learn about animals!</string>
+
+    <!-- Progress -->
+    <string name="progress_completion">Completion: %1$d%%</string>
+    <string name="progress_explored">%1$d Explored</string>
+    <string name="progress_accuracy">%1$d%% Accuracy</string>
+    <string name="progress_by_category">Progress by Category</string>
+    <string name="progress_fraction">%1$d / %2$d</string>
+    <string name="progress_recent_activity">You\'ve been active recently - keep going!</string>
+
+    <!-- Home Screen Cards -->
+    <string name="explore_desc">Discover amazing animals!</string>
+    <string name="quiz_desc">Test your animal knowledge!</string>
+    <string name="sounds_desc">Listen to animal sounds!</string>
+    <string name="memory_desc">Match the animals!</string>
+    <string name="total_stars">%1$d Stars</string>
+    <string name="language_toggle_desc">Switch language</string>
+
+    <!-- Detail Screen -->
+    <string name="animal_image_desc">Image of %1$s</string>
+    <string name="fact_page">Fact %1$d of %2$d</string>
+    <string name="go_back">Go back</string>
+
+    <!-- Celebration -->
+    <string name="celebration_great_job">Great Job!</string>
+
+    <!-- General -->
+    <string name="back">Back</string>
+    <string name="close">Close</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading...</string>
+</resources>
