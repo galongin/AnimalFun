@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Placeholder eagle silhouette (Birds - brown) -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M14,18 C14,12 18,8 24,8 C30,8 34,12 34,18 L34,32 C34,36 30,40 24,40 C18,40 14,36 14,32 Z"/>
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M14,18 L2,12 L8,20 Z M34,18 L46,12 L40,20 Z"/>
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M22,18 L24,14 L26,18 Z"/>
+</vector>

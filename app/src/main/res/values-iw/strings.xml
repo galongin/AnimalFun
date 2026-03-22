@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnimalFun</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">\u05d1\u05d9\u05ea</string>
+    <string name="nav_explore">\u05d2\u05dc\u05d4</string>
+    <string name="nav_quiz">\u05d7\u05d9\u05d3\u05d5\u05df</string>
+    <string name="nav_sounds">\u05e6\u05dc\u05d9\u05dc\u05d9\u05dd</string>
+    <string name="nav_memory">\u05d6\u05d9\u05db\u05e8\u05d5\u05df</string>
+    <string name="nav_settings">\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_title">\u05d1\u05e8\u05d5\u05db\u05d9\u05dd \u05d4\u05d1\u05d0\u05d9\u05dd \u05dc-AnimalFun!</string>
+    <string name="explore_animals">\u05d2\u05dc\u05d4 \u05d1\u05e2\u05d5\u05dc\u05dd \u05d4\u05d7\u05d9\u05d5\u05ea</string>
+    <string name="take_quiz">\u05e2\u05e9\u05d4 \u05d7\u05d9\u05d3\u05d5\u05df</string>
+    <string name="animal_sounds">\u05e6\u05dc\u05d9\u05dc\u05d9 \u05d7\u05d9\u05d5\u05ea</string>
+    <string name="memory_game">\u05de\u05e9\u05d7\u05e7 \u05d6\u05d9\u05db\u05e8\u05d5\u05df</string>
+    <string name="your_progress">\u05d4\u05d4\u05ea\u05e7\u05d3\u05de\u05d5\u05ea \u05e9\u05dc\u05da</string>
+    <string name="stars_earned">\u05db\u05d5\u05db\u05d1\u05d9\u05dd \u05e9\u05e0\u05e6\u05d1\u05e8\u05d5</string>
+
+    <!-- Explore Screen -->
+    <string name="category_farm">\u05d7\u05d5\u05d5\u05d4</string>
+    <string name="category_jungle">\u05d2\u05f3\u05d5\u05e0\u05d2\u05dc</string>
+    <string name="category_ocean">\u05d0\u05d5\u05e7\u05d9\u05d9\u05e0\u05d5\u05e1</string>
+    <string name="category_birds">\u05e6\u05d9\u05e4\u05d5\u05e8\u05d9\u05dd</string>
+    <string name="category_pets">\u05d7\u05d9\u05d5\u05ea \u05de\u05d7\u05de\u05d3</string>
+    <string name="category_insects">\u05d7\u05e8\u05e7\u05d9\u05dd</string>
+    <string name="all_categories">\u05d4\u05db\u05dc</string>
+
+    <!-- Animal Detail -->
+    <string name="tap_to_hear">\u05dc\u05d7\u05e5 \u05dc\u05e9\u05de\u05d5\u05e2!</string>
+    <string name="fun_facts">\u05e2\u05d5\u05d1\u05d3\u05d5\u05ea \u05de\u05e8\u05ea\u05e7\u05d5\u05ea</string>
+    <string name="habitat">\u05d1\u05d9\u05ea \u05d2\u05d9\u05d3\u05d5\u05dc</string>
+    <string name="diet">\u05ea\u05d6\u05d5\u05e0\u05d4</string>
+    <string name="size">\u05d2\u05d5\u05d3\u05dc</string>
+
+    <!-- Quiz -->
+    <string name="quiz_title">\u05d7\u05d9\u05d3\u05d5\u05df \u05d7\u05d9\u05d5\u05ea</string>
+    <string name="correct">\u05e0\u05db\u05d5\u05df!</string>
+    <string name="try_again">\u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1!</string>
+    <string name="next_question">\u05d4\u05d1\u05d0</string>
+    <string name="quiz_complete">\u05d4\u05d7\u05d9\u05d3\u05d5\u05df \u05d4\u05d5\u05e9\u05dc\u05dd!</string>
+    <string name="your_score">\u05d4\u05e6\u05d9\u05d5\u05df \u05e9\u05dc\u05da: %1$d / %2$d</string>
+    <string name="difficulty_easy">\u05e7\u05dc</string>
+    <string name="difficulty_medium">\u05d1\u05d9\u05e0\u05d5\u05e0\u05d9</string>
+    <string name="difficulty_hard">\u05e7\u05e9\u05d4</string>
+    <string name="quiz_choose_type">\u05d1\u05d7\u05e8 \u05e1\u05d5\u05d2 \u05d7\u05d9\u05d3\u05d5\u05df</string>
+    <string name="quiz_difficulty_label">\u05e8\u05de\u05ea \u05e7\u05d5\u05e9\u05d9</string>
+    <string name="quiz_progress">\u05e9\u05d0\u05dc\u05d4 %1$d \u05de\u05ea\u05d5\u05da %2$d</string>
+    <string name="quiz_score">\u05e0\u05d9\u05e7\u05d5\u05d3: %1$d</string>
+    <string name="quiz_play_sound">\u05e0\u05d2\u05df \u05e6\u05dc\u05d9\u05dc</string>
+    <string name="quiz_question_picture">\u05de\u05d9 \u05d4\u05d7\u05d9\u05d4 \u05d4\u05d6\u05d0\u05ea?</string>
+    <string name="quiz_question_picture_desc">\u05d7\u05d9\u05d4 \u05de\u05e1\u05ea\u05d5\u05e8\u05d9\u05ea</string>
+    <string name="quiz_question_sound">\u05d0\u05d9\u05d6\u05d5 \u05d7\u05d9\u05d4 \u05de\u05e9\u05de\u05d9\u05e2\u05d4 \u05d0\u05ea \u05d4\u05e6\u05dc\u05d9\u05dc \u05d4\u05d6\u05d4?</string>
+    <string name="quiz_question_diet">\u05de\u05d4 %1$s \u05d0\u05d5\u05db\u05dc?</string>
+    <string name="quiz_question_habitat">\u05d0\u05d9\u05e4\u05d4 %1$s \u05d7\u05d9?</string>
+    <string name="quiz_question_reverse">\u05d0\u05d9\u05d6\u05d5 \u05d7\u05d9\u05d4 \u05d4\u05d9\u05d0 %1$s?</string>
+    <string name="quiz_perfect">\u05e6\u05d9\u05d5\u05df \u05de\u05d5\u05e9\u05dc\u05dd! \u05de\u05d3\u05d4\u05d9\u05dd!</string>
+    <string name="quiz_great">\u05db\u05dc \u05d4\u05db\u05d1\u05d5\u05d3! \u05d9\u05e4\u05d4 \u05de\u05d0\u05d5\u05d3!</string>
+    <string name="quiz_good">\u05de\u05d0\u05de\u05e5 \u05d8\u05d5\u05d1! \u05d4\u05de\u05e9\u05d9\u05db\u05d5 \u05dc\u05dc\u05de\u05d5\u05d3!</string>
+    <string name="quiz_try_harder">\u05d4\u05de\u05e9\u05d9\u05db\u05d5 \u05dc\u05e0\u05e1\u05d5\u05ea! \u05d0\u05ea\u05dd \u05d9\u05db\u05d5\u05dc\u05d9\u05dd!</string>
+    <string name="quiz_choose_another">\u05d1\u05d7\u05e8 \u05d7\u05d9\u05d3\u05d5\u05df \u05d0\u05d7\u05e8</string>
+    <string name="quiz_type_picture">\u05d7\u05d9\u05d3\u05d5\u05df \u05ea\u05de\u05d5\u05e0\u05d5\u05ea</string>
+    <string name="quiz_type_sound">\u05d7\u05d9\u05d3\u05d5\u05df \u05e6\u05dc\u05d9\u05dc\u05d9\u05dd</string>
+    <string name="quiz_type_riddle">\u05d7\u05d9\u05d3\u05d5\u05df \u05d7\u05d9\u05d3\u05d5\u05ea</string>
+    <string name="quiz_type_diet">\u05d7\u05d9\u05d3\u05d5\u05df \u05ea\u05d6\u05d5\u05e0\u05d4</string>
+    <string name="quiz_type_habitat">\u05d7\u05d9\u05d3\u05d5\u05df \u05d1\u05d9\u05ea \u05d2\u05d9\u05d3\u05d5\u05dc</string>
+    <string name="quiz_type_reverse">\u05d7\u05d9\u05d3\u05d5\u05df \u05d4\u05e4\u05d5\u05da</string>
+
+    <!-- Sounds -->
+    <string name="tap_animal_sound">\u05dc\u05d7\u05e5 \u05e2\u05dc \u05d7\u05d9\u05d4 \u05dc\u05e9\u05de\u05d5\u05e2 \u05d0\u05ea \u05d4\u05e6\u05dc\u05d9\u05dc \u05e9\u05dc\u05d4!</string>
+    <string name="match_the_sound">\u05d4\u05ea\u05d0\u05dd \u05d0\u05ea \u05d4\u05e6\u05dc\u05d9\u05dc</string>
+    <string name="streak">\u05e8\u05e6\u05e3: %1$d</string>
+    <string name="sounds_mode_explore">\u05d2\u05dc\u05d4</string>
+    <string name="sounds_best_streak">\u05e9\u05d9\u05d0: %1$d</string>
+    <string name="sounds_play_again_btn">\u05e0\u05d2\u05df \u05e6\u05dc\u05d9\u05dc</string>
+
+    <!-- Memory Game -->
+    <string name="moves">\u05de\u05d4\u05dc\u05db\u05d9\u05dd: %1$d</string>
+    <string name="time_elapsed">\u05d6\u05de\u05df: %1$s</string>
+    <string name="congratulations">\u05db\u05dc \u05d4\u05db\u05d1\u05d5\u05d3!</string>
+    <string name="play_again">\u05e9\u05d7\u05e7 \u05e9\u05d5\u05d1</string>
+    <string name="memory_choose_difficulty">\u05d1\u05d7\u05e8 \u05e8\u05de\u05ea \u05e7\u05d5\u05e9\u05d9</string>
+    <string name="memory_match_type">\u05e1\u05d5\u05d2 \u05d4\u05ea\u05d0\u05de\u05d4</string>
+    <string name="memory_image_image">\u05ea\u05de\u05d5\u05e0\u05d4 - \u05ea\u05de\u05d5\u05e0\u05d4</string>
+    <string name="memory_image_name">\u05ea\u05de\u05d5\u05e0\u05d4 - \u05e9\u05dd</string>
+    <string name="memory_pairs_count">%1$d \u05d6\u05d5\u05d2\u05d5\u05ea</string>
+    <string name="memory_start">\u05d4\u05ea\u05d7\u05dc \u05de\u05e9\u05d7\u05e7</string>
+    <string name="memory_completion_time">\u05d6\u05de\u05df: %1$s</string>
+    <string name="memory_completion_moves">\u05de\u05d4\u05dc\u05db\u05d9\u05dd: %1$d</string>
+    <string name="memory_best_time">\u05d6\u05de\u05df \u05e9\u05d9\u05d0: %1$s</string>
+    <string name="memory_home">\u05d1\u05d9\u05ea</string>
+    <string name="memory_card_desc">\u05db\u05e8\u05d8\u05d9\u05e1 \u05d6\u05d9\u05db\u05e8\u05d5\u05df</string>
+
+    <!-- Settings -->
+    <string name="language">\u05e9\u05e4\u05d4</string>
+    <string name="english">\u05d0\u05e0\u05d2\u05dc\u05d9\u05ea</string>
+    <string name="hebrew">\u05e2\u05d1\u05e8\u05d9\u05ea</string>
+    <string name="sound_effects">\u05d0\u05e4\u05e7\u05d8\u05d9 \u05e7\u05d5\u05dc</string>
+    <string name="reset_progress">\u05d0\u05d9\u05e4\u05d5\u05e1 \u05d4\u05ea\u05e7\u05d3\u05de\u05d5\u05ea</string>
+    <string name="parental_gate">\u05e9\u05e2\u05e8 \u05d4\u05d5\u05e8\u05d9\u05dd</string>
+    <string name="solve_to_continue">\u05e4\u05ea\u05d5\u05e8 \u05db\u05d3\u05d9 \u05dc\u05d4\u05de\u05e9\u05d9\u05da: %1$s</string>
+    <string name="enter_answer">\u05d4\u05db\u05e0\u05e1 \u05ea\u05e9\u05d5\u05d1\u05d4</string>
+    <string name="submit">\u05e9\u05dc\u05d7</string>
+    <string name="wrong_answer">\u05ea\u05e9\u05d5\u05d1\u05d4 \u05e9\u05d2\u05d5\u05d9\u05d4, \u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1</string>
+    <string name="settings_parents_only">\u05dc\u05d4\u05d5\u05e8\u05d9\u05dd \u05d1\u05dc\u05d1\u05d3!</string>
+    <string name="settings_solve_to_unlock">\u05e4\u05ea\u05e8\u05d5 \u05d0\u05ea \u05ea\u05e8\u05d2\u05d9\u05dc \u05d4\u05d7\u05e9\u05d1\u05d5\u05df \u05db\u05d3\u05d9 \u05dc\u05e4\u05ea\u05d5\u05d7 \u05d0\u05ea \u05d4\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea</string>
+    <string name="settings_unlock">\u05e4\u05ea\u05d7</string>
+    <string name="settings_wrong_try_again">\u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1!</string>
+    <string name="settings_reset_description">\u05de\u05d7\u05e7 \u05d0\u05ea \u05db\u05dc \u05d4\u05db\u05d5\u05db\u05d1\u05d9\u05dd, \u05d4\u05d7\u05d9\u05d5\u05ea \u05e9\u05e0\u05d7\u05e7\u05e8\u05d5 \u05d5\u05d4\u05ea\u05e7\u05d3\u05de\u05d5\u05ea \u05d1\u05d7\u05d9\u05d3\u05d5\u05e0\u05d9\u05dd</string>
+    <string name="settings_reset_all">\u05d0\u05e4\u05e1 \u05d0\u05ea \u05db\u05dc \u05d4\u05d4\u05ea\u05e7\u05d3\u05de\u05d5\u05ea</string>
+    <string name="settings_reset_confirm_title">\u05d1\u05d8\u05d5\u05d7\u05d9\u05dd?</string>
+    <string name="settings_reset_confirm_message">\u05d6\u05d4 \u05d9\u05de\u05d7\u05e7 \u05d0\u05ea \u05db\u05dc \u05d4\u05db\u05d5\u05db\u05d1\u05d9\u05dd \u05d5\u05d4\u05d4\u05ea\u05e7\u05d3\u05de\u05d5\u05ea! \u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05dc\u05d1\u05d8\u05dc \u05e4\u05e2\u05d5\u05dc\u05d4 \u05d6\u05d5.</string>
+    <string name="settings_reset_confirm">\u05d0\u05e4\u05e1</string>
+    <string name="settings_about">\u05d0\u05d5\u05d3\u05d5\u05ea</string>
+    <string name="settings_app_version">\u05d2\u05e8\u05e1\u05d4 %1$s</string>
+    <string name="settings_credits">AnimalFun - \u05d3\u05e8\u05da \u05de\u05d4\u05e0\u05d4 \u05dc\u05d9\u05dc\u05d3\u05d9\u05dd \u05dc\u05dc\u05de\u05d5\u05d3 \u05e2\u05dc \u05d7\u05d9\u05d5\u05ea!</string>
+
+    <!-- Progress -->
+    <string name="progress_completion">\u05d4\u05e9\u05dc\u05de\u05d4: %1$d%%</string>
+    <string name="progress_explored">%1$d \u05e0\u05d7\u05e7\u05e8\u05d5</string>
+    <string name="progress_accuracy">%1$d%% \u05d3\u05d9\u05d5\u05e7</string>
+    <string name="progress_by_category">\u05d4\u05ea\u05e7\u05d3\u05de\u05d5\u05ea \u05dc\u05e4\u05d9 \u05e7\u05d8\u05d2\u05d5\u05e8\u05d9\u05d4</string>
+    <string name="progress_fraction">%1$d / %2$d</string>
+    <string name="progress_recent_activity">\u05d4\u05d9\u05d9\u05ea \u05e4\u05e2\u05d9\u05dc \u05dc\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4 - \u05d4\u05de\u05e9\u05d9\u05da!</string>
+
+    <!-- Home Screen Cards -->
+    <string name="explore_desc">\u05d2\u05dc\u05d4 \u05d7\u05d9\u05d5\u05ea \u05de\u05d3\u05d4\u05d9\u05de\u05d5\u05ea!</string>
+    <string name="quiz_desc">\u05d1\u05d3\u05d5\u05e7 \u05d0\u05ea \u05d4\u05d9\u05d3\u05e2 \u05e9\u05dc\u05da!</string>
+    <string name="sounds_desc">\u05d4\u05d0\u05d6\u05df \u05dc\u05e6\u05dc\u05d9\u05dc\u05d9 \u05d7\u05d9\u05d5\u05ea!</string>
+    <string name="memory_desc">\u05d4\u05ea\u05d0\u05dd \u05d0\u05ea \u05d4\u05d7\u05d9\u05d5\u05ea!</string>
+    <string name="total_stars">%1$d \u05db\u05d5\u05db\u05d1\u05d9\u05dd</string>
+    <string name="language_toggle_desc">\u05d4\u05d7\u05dc\u05e3 \u05e9\u05e4\u05d4</string>
+
+    <!-- Detail Screen -->
+    <string name="animal_image_desc">\u05ea\u05de\u05d5\u05e0\u05d4 \u05e9\u05dc %1$s</string>
+    <string name="fact_page">\u05e2\u05d5\u05d1\u05d3\u05d4 %1$d \u05de\u05ea\u05d5\u05da %2$d</string>
+    <string name="go_back">\u05d7\u05d6\u05d5\u05e8 \u05d0\u05d7\u05d5\u05e8\u05d4</string>
+
+    <!-- Celebration -->
+    <string name="celebration_great_job">\u05db\u05dc \u05d4\u05db\u05d1\u05d5\u05d3!</string>
+
+    <!-- General -->
+    <string name="back">\u05d7\u05d6\u05d5\u05e8</string>
+    <string name="close">\u05e1\u05d2\u05d5\u05e8</string>
+    <string name="ok">\u05d0\u05d9\u05e9\u05d5\u05e8</string>
+    <string name="cancel">\u05d1\u05d9\u05d8\u05d5\u05dc</string>
+    <string name="loading">\u05d8\u05d5\u05e2\u05df...</string>
+</resources>
